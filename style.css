@@ -1,0 +1,61 @@
+body{
+    font-size: medium;
+    font-family: 'Amatic SC', cursive;
+    background-color: azure;
+}
+main{
+    margin: 10px;
+}
+p{
+    font-size: medium;
+}
+h5{
+    margin-left: 10px;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #2C3E50;
+    color: white
+}
+video{
+    width: 200px;
+    height: 150px;
+}
+.navbar {
+    background-color: #D4E6F1;
+    padding: 2px;
+}
+.navbar-toggler{
+    background-color: #85C1E9;
+}
+.banner{
+    text-align: center;
+    justify-content: center;
+    background-color: #2874A6;
+}
+#me{
+    width: 100px;
+    height: 100px;
+    margin: 2px;
+}
+#img{
+    width: 150px;
+    height: 220px;
+    margin: 2px;
+}
+#FB{
+    width: 27px;
+    height: 27px;
+    margin-top: 3px;
+}
+#IG{
+    width: 29px;
+    height: 29px;
+    margin-top: 2px;
+}
+#TW{
+    width: 33px;
+    height: 33x;
+    margin-right: 10px;
+}
